@@ -39,7 +39,7 @@ Các thuật toán được sử dụng để giải quyết bài toán:
 
 ## Tác Giả
 
-Được viết bởi [HoàngVinhQuân].
+Được viết bởi **Hoàng Vinh Quân**.
 
 ## Cần Trợ Giúp hoặc Báo Lỗi
 
